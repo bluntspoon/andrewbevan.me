@@ -6,7 +6,7 @@ description: Senior Developer with 18+ years at Derivco, specializing in C#, .NE
 ---
 
 - 🙂 I am Andrew Bevan from [Durban, South Africa](https://goo.gl/maps/rQsiecctb9SovcdG9). 🔴🔵🟡🟢
-- 🔭 I’m a Senior Developer working on few large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com) one of the largest iGaming Platform Providers.
+- 🔭 I’m a Senior Developer working on a few large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com) one of the largest iGaming Platform Providers.
 - 🌱 I’m currently learning more about AI Technologies while furthering my skills as a Software Architect.
 - ⚡ Fact: I enjoy spending time with my family and friends.
 
