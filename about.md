@@ -6,15 +6,11 @@ description: Senior Developer with 18+ years at Derivco, specializing in C#, .NE
 ---
 
 - 🙂 I am Andrew Bevan from [Durban, South Africa](https://goo.gl/maps/rQsiecctb9SovcdG9). 🔴🔵🟡🟢
-- 🔭 I’m a Senior Developer working on several large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com), one of the largest iGaming Platform Providers.
-- 🌱 I’m currently learning more about Cloud Technologies while furthering my skills as a Software Architect.
+- 🔭 I’m a Senior Developer working on few large projects using the Microsoft Tech Stack for [Derivco](https://www.derivco.com) one of the largest iGaming Platform Providers.
+- 🌱 I’m currently learning more about AI Technologies while furthering my skills as a Software Architect.
 - ⚡ Fact: I enjoy spending time with my family and friends.
-- 📧 Want to connect with me?
-  - DM me on [X](https://x.com/bluntspoon)
-  - Email me at [bluntspoon@gmail.com](mailto:bluntspoon@gmail.com)
-  - Connect on [LinkedIn](https://www.linkedin.com/in/andrew-bevan)
 
-## Senior Developer | 18+ Years of Software Development in the iGaming Industry
+## Senior Developer | 18+ Years of Software Development in the iGaming Industry 🎮
 
 I am a skilled and accomplished IT professional, specialising in software development, utilising Agile methodologies.
 
@@ -22,7 +18,7 @@ Advanced business and technical acumen, along with excellent qualifications, ens
 
 Highly developed analytical expertise and problem solving, time-management and organisational skills guarantee precise attention to detail, exemplary performance under pressure and the ability to achieve tight deadlines in fast-paced environments.
 
-### QUALIFICATIONS
+### 🎓 QUALIFICATIONS:
 
 - Bachelor’s Degree in Information Technology, Durban University of Technology
 - Microsoft Certified: Azure Administrator Associate
@@ -34,21 +30,18 @@ Highly developed analytical expertise and problem solving, time-management and o
 - AI and Big Data, Learning Machines
 - ISEB - Test Analyst, BCS
 
-### RECENT KEY PROJECTS
+### 🚀 RECENT KEY PROJECTS:
 
 - Architecting a new cloud-based game management system, to streamline the delivery of games to customers
 - Developing modern, cross-platform multiplayer poker gaming experience for the web, Android, Windows and Mac
 
-### TECH STACK
+### 💻 TECH STACK:
 
-Languages & Frameworks
+**Languages & Frameworks:**
 
-- C# / .NET / ASP.NET / Razor / MVC / WebAPI
+- C# / .NET / TypeScript / JavaScript / HTML5 / CSS3
 - SQL / LINQ / ADO.NET / EF Core / Dapper
-- TypeScript / JavaScript / HTML5 / CSS3
-
-Tools
-
+- ASP.NET / Razor / MVC / WebAPI
 - Visual Studio / VS Code
 - SQL Management Studio / Azure Data Studio
 - Azure Cloud - Kubernetes / AKS / Terraform
